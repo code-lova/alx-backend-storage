@@ -1,0 +1,3 @@
+// create a db or use existing one
+
+use my_db
